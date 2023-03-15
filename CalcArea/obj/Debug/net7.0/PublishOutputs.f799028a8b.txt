@@ -1,0 +1,3 @@
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/bin/Debug/net7.0/publish/CalcArea.dll
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/bin/Debug/net7.0/publish/CalcArea.deps.json
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/bin/Debug/net7.0/publish/CalcArea.pdb

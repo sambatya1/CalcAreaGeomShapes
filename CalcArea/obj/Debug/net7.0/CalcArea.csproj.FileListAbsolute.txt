@@ -1,0 +1,12 @@
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/bin/Debug/net7.0/CalcArea.deps.json
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/bin/Debug/net7.0/CalcArea.dll
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/bin/Debug/net7.0/CalcArea.pdb
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/obj/Debug/net7.0/CalcArea.csproj.AssemblyReference.cache
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/obj/Debug/net7.0/CalcArea.GeneratedMSBuildEditorConfig.editorconfig
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/obj/Debug/net7.0/CalcArea.AssemblyInfoInputs.cache
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/obj/Debug/net7.0/CalcArea.AssemblyInfo.cs
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/obj/Debug/net7.0/CalcArea.csproj.CoreCompileInputs.cache
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/obj/Debug/net7.0/CalcArea.dll
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/obj/Debug/net7.0/refint/CalcArea.dll
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/obj/Debug/net7.0/CalcArea.pdb
+/home/sambatya/Documents/CalcAreaGeomShapes/CalcArea/obj/Debug/net7.0/ref/CalcArea.dll

@@ -1,0 +1,7 @@
+/home/sambatya/Documents/CalcAreaGeomShapes/TestDll/bin/Debug/net7.0/publish/TestDll
+/home/sambatya/Documents/CalcAreaGeomShapes/TestDll/bin/Debug/net7.0/publish/TestDll.dll
+/home/sambatya/Documents/CalcAreaGeomShapes/TestDll/bin/Debug/net7.0/publish/TestDll.deps.json
+/home/sambatya/Documents/CalcAreaGeomShapes/TestDll/bin/Debug/net7.0/publish/TestDll.runtimeconfig.json
+/home/sambatya/Documents/CalcAreaGeomShapes/TestDll/bin/Debug/net7.0/publish/TestDll.pdb
+/home/sambatya/Documents/CalcAreaGeomShapes/TestDll/bin/Debug/net7.0/publish/CalcArea.dll
+/home/sambatya/Documents/CalcAreaGeomShapes/TestDll/bin/Debug/net7.0/publish/CalcArea.pdb
