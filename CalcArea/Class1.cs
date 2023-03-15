@@ -12,7 +12,11 @@ public class Circle : IShape
     }
     public double GetArea()
     {
-        return Math.PI * _radius * _radius;
+        return Math.Round(Math.PI * _radius * _radius,4);
+    }
+    public override string ToString()
+    {
+        return _radius.ToString();
     }
 }
 public class Triangle : IShape
@@ -28,10 +32,22 @@ public class Triangle : IShape
         _side3 = side3;
     }
 
-// рассчитаем площадь треугольника по форуле Герона 
+    // рассчитаем площадь треугольника по форуле Герона 
     public double GetArea()
     {
         double s = (_side1 + _side2 + _side3) / 2;
         return Math.Sqrt(s * (s - _side1) * (s - _side2) * (s - _side3));
-    }  
+    }
+    // Проверка треугольника на прямоугольность
+    public bool IsRightAngled()
+    {
+        double[] sides = new double[] { _side1, _side2, _side3 };
+        Array.Sort(sides);
+        return Math.Pow(sides[2], 2) == Math.Pow(sides[0], 2) + Math.Pow(sides[1], 2);
+    }
+
+    public override string ToString()
+    {
+        return $"a={_side1},b={_side2},c={_side3}";
+    }
 }
