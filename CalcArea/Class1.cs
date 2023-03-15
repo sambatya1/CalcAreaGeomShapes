@@ -36,7 +36,7 @@ public class Triangle : IShape
     public double GetArea()
     {
         double s = (_side1 + _side2 + _side3) / 2;
-        return Math.Sqrt(s * (s - _side1) * (s - _side2) * (s - _side3));
+        return Math.Round(Math.Sqrt(s * (s - _side1) * (s - _side2) * (s - _side3)),4);
     }
     // Проверка треугольника на прямоугольность
     public bool IsRightAngled()
